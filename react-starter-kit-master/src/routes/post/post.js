@@ -10,20 +10,23 @@
 import useStyles from 'isomorphic-style-loader/useStyles';
 import React from 'react';
 import PropTypes from 'prop-types';
-import s from './Feed.css';
+import s from './Post.css';
 
-export default function Feed({ title }) {
+export default function Post({ title }) {
   useStyles(s);
   return (
     <div className={s.root}>
       <div className={s.container}>
         <h1>{title}</h1>
-        <p>.....</p>
+        <p>.yo...</p>
+
+        <input />
+        
       </div>
     </div>
   );
 }
 
-Feed.propTypes = {
+Post.propTypes = {
   title: PropTypes.string.isRequired,
 };

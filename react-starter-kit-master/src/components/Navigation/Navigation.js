@@ -24,8 +24,11 @@ export default function Navigation() {
         Contact
       </Link>
 
-      <Link className={s.link} to="/contact">
+      <Link className={s.link} to="/feed">
         Feed
+      </Link>
+      <Link className ={s.link} to ="/post">
+         Post
       </Link>
       <span className={s.spacer}> | </span>
       <Link className={s.link} to="/login">

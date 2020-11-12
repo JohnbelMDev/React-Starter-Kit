@@ -9,21 +9,27 @@
 
 import useStyles from 'isomorphic-style-loader/useStyles';
 import React from 'react';
-import PropTypes from 'prop-types';
 import s from './Feed.css';
 
-export default function Feed({ title }) {
+export default function Feedback() {
   useStyles(s);
   return (
     <div className={s.root}>
       <div className={s.container}>
-        <h1>{title}</h1>
-        <p>.....</p>
+        <a
+          className={s.link}
+          href="https://gitter.im/kriasoft/react-starter-kit"
+        >
+          Ask memm a question
+        </a>
+        <span className={s.spacer}>|</span>
+        <a
+          className={s.link}
+          href="https://github.com/kriasoft/react-starter-kit/issues/new"
+        >
+          Report an issue
+        </a>
       </div>
     </div>
   );
 }
-
-Feed.propTypes = {
-  title: PropTypes.string.isRequired,
-};

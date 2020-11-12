@@ -38,8 +38,14 @@ const routes = {
 
     {
       path: '/feed',
-      load: () => import(/* webpackChunkName: 'about' */ './about'),
+      load: () => import(/* webpackChunkName: 'about' */ './feed'),
     },
+
+    {
+      path:'/post',
+      load:() => import(/* webpackChunkName: 'post' */   './post'),
+    },
+    
     {
       path: '/privacy',
       load: () => import(/* webpackChunkName: 'privacy' */ './privacy'),

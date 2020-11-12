@@ -9,9 +9,9 @@
 
 import React from 'react';
 import Layout from '../../components/Layout';
-import Feed from './Feed';
+import Post from './post';
 
-const title = ' Feed Page';
+const title = ' Posti Page';
 
 function action() {
   return {
@@ -19,7 +19,7 @@ function action() {
     title,
     component: (
       <Layout>
-        <Feed title={title} />
+        <Post title={title} />
       </Layout>
     ),
   };

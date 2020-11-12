@@ -21,6 +21,7 @@ const schema = new Schema({
     fields: {
       me,
       news,
+      
     },
   }),
 });
