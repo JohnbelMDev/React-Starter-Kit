@@ -14,8 +14,8 @@
 }
 
 .root {
-  background: #373277;
-  color: #fff;
+  /* background: #373277; */
+  color: black;
 }
 
 .container {
@@ -48,7 +48,7 @@
 
 .bannerDesc {
   padding: 0;
-  color: rgba(255, 255, 255, 0.5);
+  /* color: rgba(255, 255, 255, 0.5); */
   font-size: 1.25em;
   margin: 0;
 }

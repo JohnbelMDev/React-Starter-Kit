@@ -16,6 +16,7 @@ export default function Feedback() {
   return (
     <div className={s.root}>
       <div className={s.container}>
+
         <a
           className={s.link}
           href="https://gitter.im/kriasoft/react-starter-kit"

@@ -3,44 +3,22 @@ title: About Us
 component: ContentPage
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean consequat tortor
-fermentum mi fermentum dignissim. Nullam vel ipsum ut ligula elementum lobortis.
-Maecenas aliquam, massa laoreet lacinia pretium, nisi urna venenatis tortor, nec
-imperdiet tellus libero efficitur metus. Fusce semper posuere ligula, et
-facilisis metus bibendum interdum. Mauris at mauris sit amet sem pharetra
-commodo a eu leo. Nam at est non risus cursus maximus. Nam feugiat augue libero,
-id consectetur tortor bibendum non. Quisque nec fringilla lorem. Nullam
-efficitur vulputate mauris, nec maximus leo dignissim id.
+Head of Instagram
+Adam Mosseri (@mosseri) is the Head of Instagram where he oversees all functions of the business including engineering, product and operations. A designer at heart, Adam is known for balancing sharp design thinking with thoughtful product strategy to create experiences that bring people together and encourage authentic communication.
 
-Innnnnn hac habitasse platea dictumst. Duis sagittis dui ac ex suscipit maximus.
-Morbi pellentesque venenatis felis sed convallis. Nulla varius, nibh vitae
-placerat tempus, mauris sem elementum ipsum, eget sollicitudin nisl est vel
-purus. Fusce malesuada odio velit, non cursus leo fermentum id. Cras pharetra
-sodales fringilla. Etiam quis est a dolor egestas pellentesque. Maecenas non
-scelerisque purus, congue cursus arcu. Donec vel dapibus mi. Mauris maximus
-posuere placerat. Sed et libero eu nibh tristique mollis a eget lectus. Donec
-interdum augue sollicitudin vehicula hendrerit. Vivamus justo orci, molestie ac
-sollicitudin ac, lobortis at tellus. Etiam rhoncus ullamcorper risus eu tempor.
-Sed porttitor, neque ac efficitur gravida, arcu lacus pharetra dui, in consequat
-elit tellus auctor nulla. Donec placerat elementum diam, vitae imperdiet lectus
-luctus at.
+Adam has been at Facebook for more than ten years. He was design director for Facebook's mobile apps and then moved into product management where he led the News Feed product and engineering teams for many years. He was Head of News Feed prior to joining Instagram where he oversaw product before managing the entire organization.
 
-Nullam eu feugiat mi. Quisque nec tristique nisl, dignissim dictum leo. Nam non
-quam nisi. Donec rutrum turpis ac diam blandit, id pulvinar mauris suscipit.
-Pellentesque tincidunt libero ultricies risus iaculis, sit amet consequat velit
-blandit. Fusce quis varius nulla. Nullam nisi nisi, suscipit ut magna quis,
-feugiat porta nibh. Sed id enim lectus. Suspendisse elementum justo sapien, sit
-amet consequat orci accumsan et. Aliquam ornare ullamcorper sem sed finibus.
-Nullam ac lacus pulvinar, egestas felis ut, accumsan est.
+Prior to Facebook, Adam worked at TokBox as the company’s first designer. He began his career founding a design consultancy in 2003 with offices in New York and San Francisco that focused on graphic, interaction and exhibition design. Adam holds a BA from the Gallatin School of Interdisciplinary Study at NYU where he studied Information Design and Media.
 
-Pellentesque sagittis vehicula sem quis luctus. Proin sodales magna in lorem
-hendrerit aliquam. Integer eu varius orci. Vestibulum ante ipsum primis in
-faucibus orci luctus et ultrices posuere cubilia Curae; Vestibulum ante ipsum
-primis in faucibus orci luctus et ultrices posuere cubilia Curae; Ut at mauris
-nibh. Suspendisse maximus ac eros at vestibulum.
+Born and raised in New York, he now lives in San Francisco with his wife and two sons.
 
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Quisque egestas
-tortor et dui consequat faucibus. Nunc vitae odio ornare, venenatis ligula a,
-vulputate nisl. Aenean congue varius ex, sit amet bibendum odio posuere at.
-Nulla facilisi. In finibus, nulla vitae tincidunt ornare, sapien nulla fermentum
-mauris, sed consectetur tortor arcu eget arcu. Vestibulum vel quam enim.
+Founders
+Kevin Systrom (Co-founder)
+Kevin Systrom (@kevin) co-founded Instagram and served as CEO for 8 years before leaving the company in September 2018 to pursue his next passion project. With Kevin’s focus on simplicity and inspiring creativity through solving problems with thoughtful product design, Instagram became the home for innovation on visual storytelling launching dozens of products including Stories and IGTV.
+
+Prior to founding Instagram, Kevin was part of the startup Odeo, which later became Twitter, and spent two years at Google working on products like Gmail and Google Reader. He graduated from Stanford University with a BS in Management Science & Engineering.
+
+Mike Krieger (Co-founder)
+Mike Krieger (@mikeyk) co-founded Instagram and served as Instagram's Head of Engineering for 8 years, before leaving the company in September 2018 to explore new projects. Mike focused on building a broad range of creative products to empower the community on Instagram to connect with their interests and passions. In addition, Mike grew the engineering organization to more than 400 employees in Instagram offices located in Menlo Park, New York and San Francisco.
+
+A native of São Paulo, Brazil, Mike holds an MS in Symbolic Systems from Stanford University. Prior to founding Instagram, he worked at Meebo as a user experience designer and front-end engineer.

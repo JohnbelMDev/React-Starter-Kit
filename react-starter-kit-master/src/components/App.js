@@ -12,6 +12,7 @@ import PropTypes from 'prop-types';
 
 import StyleContext from 'isomorphic-style-loader/StyleContext';
 import ApplicationContext from './ApplicationContext';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 /**
  * The top-level React component setting context (global) variables
