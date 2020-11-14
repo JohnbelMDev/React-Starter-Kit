@@ -28,7 +28,7 @@ export default function Post({ title }) {
 
         <div class="input-group mb-3">
         <div class="input-group-prepend">
-          <span class="input-group-text" id="inputGroupFileAddon01">Upload</span>
+          <span class="input-group-text" id="inputGroupFileAddon01">Upload file</span>
         </div>
         <div class="custom-file">
           <input type="file" class="custom-file-input" id="inputGroupFile01" aria-describedby="inputGroupFileAddon01"/>
